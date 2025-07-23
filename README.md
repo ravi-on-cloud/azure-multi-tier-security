@@ -1,4 +1,4 @@
-# azure-multi-tier-security
+# Azure-multi-tier-security project
 Azure project showcasing a secure multi-tier architecture using NSG, ASG, and VM segmentation.
 
 This project demonstrates a **3-tier secure architecture** in Microsoft Azure using **Network Security Groups (NSG)** and **Application Security Groups (ASG)** for traffic control, monitoring, and alerting.
