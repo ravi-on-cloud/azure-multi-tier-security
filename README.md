@@ -43,9 +43,9 @@ This project demonstrates a **3-tier secure architecture** in Microsoft Azure us
 - Created ASGs: `WebASG`, `AppASG`, `DBASG`
 - Assigned ASGs to each VM’s NIC
 - Created NSG Rules:
-  - ✅ Allow `WebASG` → `AppASG` (port 8080)
-  - ✅ Allow `AppASG` → `DBASG` (port 1433)
-  - ❌ Deny `WebASG` direct access to `DBASG`
+  - Allow `WebASG` → `AppASG` (port 8080)
+  - Allow `AppASG` → `DBASG` (port 1433)
+  - Deny `WebASG` direct access to `DBASG`
 
 ### 3. Testing & Validation
 - Hosted a Python HTTP server on `app-vm` (`port 8080`)
