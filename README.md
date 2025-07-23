@@ -13,6 +13,10 @@ This project demonstrates a **3-tier secure architecture** in Microsoft Azure us
 - **DB Tier:** Internal-only VM (planned for database), protected by strict rules
 
 ---
+## Azure Architecture Diagram
+
+![Azure Architecture](architecture/Azure-architecture.png)
+
 
 ## Tech Stack & Services
 
