@@ -28,7 +28,6 @@ This project demonstrates a **3-tier secure architecture** in Microsoft Azure us
 | Monitoring          | Azure Monitor, Log Analytics |
 | Alerting            | Email Alerts via Action Group|
 | Scripting/Testing   | Python HTTP server, `curl`, `stress`|
-| Logs & Queries      | Kusto Query Language (KQL)   |
 
 ---
 
